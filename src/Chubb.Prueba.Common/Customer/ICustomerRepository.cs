@@ -10,7 +10,6 @@ namespace Chubb.Prueba.BL.Customer
 {
     public interface ICustomerRepository
     {
-        Task<ResultResponse> GetCustomerByCedulaRepresent(string cedula);
         Task<ResultResponse> GetCustomerByCedula(string cedula);
         Task<ResultResponse> GetCustomersWithoutInsurance();
         Task<ResultResponse> InsertCustomer(CustomerEntity customer);

@@ -22,6 +22,5 @@ namespace Chubb.Prueba.DTOs.Customer
         public DateTime? DateBorn{get;set;}
         public DateTime? DateCreate{get;set;}
         public int? CustomerInsuranceId{get;set;}
-        public string? CedulaRepresent { get; set; }
     }
 }

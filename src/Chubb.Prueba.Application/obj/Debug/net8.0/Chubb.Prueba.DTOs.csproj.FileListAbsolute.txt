@@ -21,3 +21,15 @@ C:\Users\viamatica\Documents\proyectos\chubb\Chubb.Prueba.Back\src\Chubb.Prueba.
 C:\Users\viamatica\Documents\proyectos\chubb\Chubb.Prueba.Back\src\Chubb.Prueba.Application\obj\Debug\net8.0\refint\Chubb.Prueba.DTOs.dll
 C:\Users\viamatica\Documents\proyectos\chubb\Chubb.Prueba.Back\src\Chubb.Prueba.Application\obj\Debug\net8.0\Chubb.Prueba.DTOs.pdb
 C:\Users\viamatica\Documents\proyectos\chubb\Chubb.Prueba.Back\src\Chubb.Prueba.Application\obj\Debug\net8.0\ref\Chubb.Prueba.DTOs.dll
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Application\bin\Debug\net8.0\Chubb.Prueba.DTOs.deps.json
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Application\bin\Debug\net8.0\Chubb.Prueba.DTOs.dll
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Application\bin\Debug\net8.0\Chubb.Prueba.DTOs.pdb
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Application\obj\Debug\net8.0\Chubb.Prueba.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Application\obj\Debug\net8.0\Chubb.Prueba.DTOs.AssemblyInfoInputs.cache
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Application\obj\Debug\net8.0\Chubb.Prueba.DTOs.AssemblyInfo.cs
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Application\obj\Debug\net8.0\Chubb.Prueba.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Application\obj\Debug\net8.0\Chubb.Prueba.DTOs.sourcelink.json
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Application\obj\Debug\net8.0\Chubb.Prueba.DTOs.dll
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Application\obj\Debug\net8.0\refint\Chubb.Prueba.DTOs.dll
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Application\obj\Debug\net8.0\Chubb.Prueba.DTOs.pdb
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Application\obj\Debug\net8.0\ref\Chubb.Prueba.DTOs.dll

@@ -22,7 +22,6 @@ namespace Chubb.Prueba.DTOs.TypeInsurance
         public double? Prima {get;set;}
         public bool? LegalAge {get;set;}
         public DateTime? DateCreate {get;set;}
-        public string? CedulaRepresent {get;set;}
         public int? CustomerInsuranceId {  get;set;}
     }
 }

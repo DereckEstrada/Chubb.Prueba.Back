@@ -108,7 +108,6 @@ namespace Chubb.Prueba.Entities.RelationCustomerInsurance
                                     DateBorn = reader["DateBorn"] != DBNull.Value ? (DateTime)reader["DateBorn"] : DateTime.MinValue,
                                     DateCreate = reader["DateCreate"] != DBNull.Value ? (DateTime)reader["DateCreate"] : DateTime.MinValue,
                                     CustomerInsuranceId = reader["CustomerInsuranceId"] != DBNull.Value ? (int)reader["CustomerInsuranceId"] : default,
-                                    CedulaRepresent = !legalAge? reader["CedulaRepresent"]?.ToString() ?? string.Empty : string.Empty,
                                 });
                             }
                             result.Code = customerList.Count() == 0 ? CodeHttp.GoodResponseNoContent : CodeHttp.GoodResponseGet;

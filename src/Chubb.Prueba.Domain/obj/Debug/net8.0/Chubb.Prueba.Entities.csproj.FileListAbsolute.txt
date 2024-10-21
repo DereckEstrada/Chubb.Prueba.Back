@@ -21,3 +21,15 @@ C:\Users\viamatica\Documents\proyectos\chubb\Chubb.Prueba.Back\src\Chubb.Prueba.
 C:\Users\viamatica\Documents\proyectos\chubb\Chubb.Prueba.Back\src\Chubb.Prueba.Domain\obj\Debug\net8.0\refint\Chubb.Prueba.Entities.dll
 C:\Users\viamatica\Documents\proyectos\chubb\Chubb.Prueba.Back\src\Chubb.Prueba.Domain\obj\Debug\net8.0\Chubb.Prueba.Entities.pdb
 C:\Users\viamatica\Documents\proyectos\chubb\Chubb.Prueba.Back\src\Chubb.Prueba.Domain\obj\Debug\net8.0\ref\Chubb.Prueba.Entities.dll
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Domain\bin\Debug\net8.0\Chubb.Prueba.Entities.deps.json
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Domain\bin\Debug\net8.0\Chubb.Prueba.Entities.dll
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Domain\bin\Debug\net8.0\Chubb.Prueba.Entities.pdb
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Domain\obj\Debug\net8.0\Chubb.Prueba.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Domain\obj\Debug\net8.0\Chubb.Prueba.Entities.AssemblyInfoInputs.cache
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Domain\obj\Debug\net8.0\Chubb.Prueba.Entities.AssemblyInfo.cs
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Domain\obj\Debug\net8.0\Chubb.Prueba.Entities.csproj.CoreCompileInputs.cache
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Domain\obj\Debug\net8.0\Chubb.Prueba.Entities.sourcelink.json
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Domain\obj\Debug\net8.0\Chubb.Prueba.Entities.dll
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Domain\obj\Debug\net8.0\refint\Chubb.Prueba.Entities.dll
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Domain\obj\Debug\net8.0\Chubb.Prueba.Entities.pdb
+C:\Users\viamatica\Documents\proyectos\chubb\clone\Chubb.Prueba.Back\src\Chubb.Prueba.Domain\obj\Debug\net8.0\ref\Chubb.Prueba.Entities.dll

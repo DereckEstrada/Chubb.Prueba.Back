@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Api\\Chubb.Prueba.Api.csproj": {}
+    "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Api\\Chubb.Prueba.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Api\\Chubb.Prueba.Api.csproj": {
+    "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Api\\Chubb.Prueba.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Api\\Chubb.Prueba.Api.csproj",
+        "projectUniqueName": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Api\\Chubb.Prueba.Api.csproj",
         "projectName": "Chubb.Prueba.Api",
-        "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Api\\Chubb.Prueba.Api.csproj",
+        "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Api\\Chubb.Prueba.Api.csproj",
         "packagesPath": "C:\\Users\\viamatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Api\\obj\\",
+        "outputPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj": {
-                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj"
+              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj": {
+                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj"
               },
-              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj": {
-                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj"
+              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj": {
+                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj"
               },
-              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\Chubb.Prueba.BL.csproj": {
-                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\Chubb.Prueba.BL.csproj"
+              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\Chubb.Prueba.BL.csproj": {
+                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\Chubb.Prueba.BL.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj": {
+    "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj",
+        "projectUniqueName": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj",
         "projectName": "Chubb.Prueba.DTOs",
-        "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj",
+        "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj",
         "packagesPath": "C:\\Users\\viamatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\obj\\",
+        "outputPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -161,14 +161,14 @@
         }
       }
     },
-    "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj": {
+    "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj",
         "projectName": "Chubb.Prueba.DAL",
-        "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj",
+        "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj",
         "packagesPath": "C:\\Users\\viamatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\obj\\",
+        "outputPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -190,14 +190,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj": {
-                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj"
+              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj": {
+                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj"
               },
-              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\Chubb.Prueba.Const.csproj": {
-                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\Chubb.Prueba.Const.csproj"
+              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\Chubb.Prueba.Const.csproj": {
+                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\Chubb.Prueba.Const.csproj"
               },
-              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj": {
-                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj"
+              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj": {
+                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj"
               }
             }
           }
@@ -250,14 +250,14 @@
         }
       }
     },
-    "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\Chubb.Prueba.Const.csproj": {
+    "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\Chubb.Prueba.Const.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\Chubb.Prueba.Const.csproj",
+        "projectUniqueName": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\Chubb.Prueba.Const.csproj",
         "projectName": "Chubb.Prueba.Const",
-        "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\Chubb.Prueba.Const.csproj",
+        "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\Chubb.Prueba.Const.csproj",
         "packagesPath": "C:\\Users\\viamatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\obj\\",
+        "outputPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -315,14 +315,14 @@
         }
       }
     },
-    "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj": {
+    "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj",
         "projectName": "Chubb.Prueba.Entities",
-        "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj",
+        "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj",
         "packagesPath": "C:\\Users\\viamatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\obj\\",
+        "outputPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -380,14 +380,14 @@
         }
       }
     },
-    "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\Chubb.Prueba.BL.csproj": {
+    "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\Chubb.Prueba.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\Chubb.Prueba.BL.csproj",
+        "projectUniqueName": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\Chubb.Prueba.BL.csproj",
         "projectName": "Chubb.Prueba.BL",
-        "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\Chubb.Prueba.BL.csproj",
+        "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\Chubb.Prueba.BL.csproj",
         "packagesPath": "C:\\Users\\viamatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\obj\\",
+        "outputPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -409,17 +409,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj": {
-                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj"
+              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj": {
+                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj"
               },
-              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj": {
-                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj"
+              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj": {
+                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj"
               },
-              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\Chubb.Prueba.Const.csproj": {
-                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\Chubb.Prueba.Const.csproj"
+              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\Chubb.Prueba.Const.csproj": {
+                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Const\\Chubb.Prueba.Const.csproj"
               },
-              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj": {
-                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj"
+              "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj": {
+                "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj"
               }
             }
           }

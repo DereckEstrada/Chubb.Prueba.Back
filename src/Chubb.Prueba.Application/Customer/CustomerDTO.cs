@@ -15,7 +15,6 @@ namespace Chubb.Prueba.DTOs.Customer
         public string? Telephone { get; set; }
         public DateTime? DateBorn { get; set; }
         public string? Email { get; set; }
-        public string? RepresentLegal { get; set; }
         public int? StatusId { get; set; }
         public int? UserCreateId { get; set; }
         public DateTime? DateCreate { get; set; }

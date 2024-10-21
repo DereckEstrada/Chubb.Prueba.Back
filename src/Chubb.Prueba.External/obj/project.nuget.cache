@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ihjpl0QoGv0=",
+  "dgSpecHash": "9zKFFnti+YA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\Chubb.Prueba.BL.csproj",
+  "projectFilePath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\Chubb.Prueba.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\viamatica\\.nuget\\packages\\epplus\\7.4.1\\epplus.7.4.1.nupkg.sha512",
     "C:\\Users\\viamatica\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",

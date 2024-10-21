@@ -35,20 +35,6 @@ namespace Chubb.Prueba.Entities.Customer
             this._insuranceServices = insuranceServices;
             this._relationServices = relationServices;
         }
-        public async Task<ResultResponse> GetCustomerByCedulaRepresent(string cedula)
-        {
-            var result = new ResultResponse();
-            try
-            {
-                result = await _repositorio.GetCustomerByCedulaRepresent(cedula);
-            }
-            catch (Exception ex)
-            {
-                result.Data = CodeHttp.BadResponse;
-                result.Message = ex.Message;
-            }
-            return result;
-        }
         public async Task<ResultResponse> GetCustomersWithoutInsurance()
         {
             var result = new ResultResponse();

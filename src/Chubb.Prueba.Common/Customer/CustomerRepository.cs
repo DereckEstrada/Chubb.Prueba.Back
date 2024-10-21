@@ -25,39 +25,6 @@ namespace Chubb.Prueba.Entities.Customer
         {
             this._connectionString = configuration.GetConnectionString("DefaultConnection");
         }
-        public async Task<ResultResponse> GetCustomerByCedulaRepresent(string cedula)
-        {
-            var result = new ResultResponse();
-            var customerIdRepresent = 0;
-            try
-            {
-                using (SqlConnection connection = new SqlConnection(_connectionString))
-                {
-                    await connection.OpenAsync();
-                    using (SqlCommand command = new SqlCommand(GetProcedures.getAllCustomer, connection))
-                    {
-                        command.CommandType = CommandType.StoredProcedure;
-                        command.Parameters.AddWithValue(VariableProcedure.Cedula, cedula);
-                        using (SqlDataReader reader = await command.ExecuteReaderAsync())
-                        {
-                            while (await reader.ReadAsync())
-                            {
-                                customerIdRepresent = reader["CustomerId"] != DBNull.Value ? (int)reader["CustomerId"]:default;                                
-                            }
-                            result.Code = customerIdRepresent==0? CodeHttp.GoodResponseNoContent : CodeHttp.GoodResponseGet;
-                            result.Data = customerIdRepresent;
-                            result.Message = MessageResponse.GoodMessage;
-                        }
-                    };
-                };
-            }
-            catch (Exception ex)
-            {
-                result.Code = CodeHttp.BadResponse;
-                result.Message = ex.Message;
-            }
-            return result;
-        }
 
         public async Task<ResultResponse> GetCustomerByCedula(string cedula)
         {

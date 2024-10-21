@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj",
+      "projectUniqueName": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj",
       "projectName": "Chubb.Prueba.DTOs",
-      "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj",
+      "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\Chubb.Prueba.DTOs.csproj",
       "packagesPath": "C:\\Users\\viamatica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\obj\\",
+      "outputPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

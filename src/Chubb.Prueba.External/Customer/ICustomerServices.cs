@@ -10,7 +10,6 @@ namespace Chubb.Prueba.BL.Customer
 {
     public interface ICustomerServices
     {
-        Task<ResultResponse> GetCustomerByCedulaRepresent(string cedula);
         Task<ResultResponse> UploadFile(IFormFile file);
         Task<ResultResponse> GetCustomersWithoutInsurance();
         Task<ResultResponse> GetCustomerByCedula(string cedula);

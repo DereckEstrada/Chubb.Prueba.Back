@@ -331,6 +331,7 @@
           "Chubb.Prueba.Const": "1.0.0",
           "Chubb.Prueba.DTOs": "1.0.0",
           "Chubb.Prueba.Entities": "1.0.0",
+          "Microsoft.Extensions.Configuration": "8.0.0",
           "Microsoft.Extensions.Configuration.Json": "8.0.1",
           "System.Data.SqlClient": "4.8.6"
         },

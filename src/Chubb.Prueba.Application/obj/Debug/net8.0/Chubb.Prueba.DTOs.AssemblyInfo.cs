@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chubb.Prueba.DTOs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2821b6319995552aa506f46192fedd28f30daef0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chubb.Prueba.DTOs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chubb.Prueba.DTOs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

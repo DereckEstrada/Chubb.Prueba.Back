@@ -198,12 +198,15 @@ namespace Chubb.Prueba.Entities.Customer
                         for (int row = 2; row <= worksheet.Dimension.End.Row; row++) 
                         {
                             var customer = new CustomerEntity();
+                            if (worksheet.Cells[row, 1].Value!=null)
+                            {                            
                             customer.FirstName = worksheet.Cells[row, 1].Value?.ToString();
                             customer.LastName = worksheet.Cells[row, 2].Value?.ToString();
                             customer.Cedula = worksheet.Cells[row, 3].Value?.ToString();
                             customer.Telephone = worksheet.Cells[row, 4].Value?.ToString();
                             customer.DateBorn = DateTime.Parse(worksheet.Cells[row, 5].Value?.ToString());
                             customer.Email = worksheet.Cells[row, 6].Value?.ToString();
+                            
                             var verificate = await this.VerificarCedula(customer.Cedula);
                             if (verificate)
                             {
@@ -211,6 +214,7 @@ namespace Chubb.Prueba.Entities.Customer
                             }
 
                             customerList.Add(customer);
+                            }
                         }
                         foreach (var customer in customerList)
                         {

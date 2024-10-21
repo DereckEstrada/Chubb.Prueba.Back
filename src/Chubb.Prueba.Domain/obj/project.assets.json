@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\derec\\.nuget\\packages\\": {}
+    "C:\\Users\\viamatica\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\Chubb\\Chubb.PruebaBack\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj",
       "projectName": "Chubb.Prueba.Entities",
-      "projectPath": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\Chubb\\Chubb.PruebaBack\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj",
-      "packagesPath": "C:\\Users\\derec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\Chubb\\Chubb.PruebaBack\\src\\Chubb.Prueba.Domain\\obj\\",
+      "projectPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\Chubb.Prueba.Entities.csproj",
+      "packagesPath": "C:\\Users\\viamatica\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\derec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\viamatica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

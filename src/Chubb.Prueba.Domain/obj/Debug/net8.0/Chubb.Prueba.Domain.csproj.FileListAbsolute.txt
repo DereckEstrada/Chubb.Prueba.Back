@@ -1,0 +1,11 @@
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Domain\bin\Debug\net8.0\Chubb.Prueba.Domain.deps.json
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Domain\bin\Debug\net8.0\Chubb.Prueba.Domain.dll
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Domain\bin\Debug\net8.0\Chubb.Prueba.Domain.pdb
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Domain\obj\Debug\net8.0\Chubb.Prueba.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Domain\obj\Debug\net8.0\Chubb.Prueba.Domain.AssemblyInfoInputs.cache
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Domain\obj\Debug\net8.0\Chubb.Prueba.Domain.AssemblyInfo.cs
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Domain\obj\Debug\net8.0\Chubb.Prueba.Domain.csproj.CoreCompileInputs.cache
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Domain\obj\Debug\net8.0\Chubb.Prueba.Domain.dll
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Domain\obj\Debug\net8.0\refint\Chubb.Prueba.Domain.dll
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Domain\obj\Debug\net8.0\Chubb.Prueba.Domain.pdb
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Domain\obj\Debug\net8.0\ref\Chubb.Prueba.Domain.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Chubb.Prueba.Api.props" />
+</Project>

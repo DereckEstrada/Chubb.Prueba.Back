@@ -1,0 +1,365 @@
+[
+  {
+    "ContainingType": "Chubb.Prueba.Api.Controllers.CustomerController",
+    "Method": "GetCustomerByCedula",
+    "RelativePath": "Customer/GetCustomerByCedula",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Chubb.Prueba.Api.Request.RequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Chubb.Prueba.Entities.Result.ResultResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Chubb.Prueba.Api.Controllers.CustomerController",
+    "Method": "GetCustomersWithoutInsurance",
+    "RelativePath": "Customer/GetCustomersWithoutInsurance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Chubb.Prueba.Api.Request.RequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Chubb.Prueba.Entities.Result.ResultResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Chubb.Prueba.Api.Controllers.CustomerController",
+    "Method": "PostCustomer",
+    "RelativePath": "Customer/PostCustomer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Chubb.Prueba.Api.Request.RequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Chubb.Prueba.Entities.Result.ResultResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Chubb.Prueba.Api.Controllers.CustomerController",
+    "Method": "UpdateCustomer",
+    "RelativePath": "Customer/UpdateCustomer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Chubb.Prueba.Api.Request.RequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Chubb.Prueba.Entities.Result.ResultResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Chubb.Prueba.Api.Controllers.CustomerController",
+    "Method": "UploadFile",
+    "RelativePath": "Customer/UploadFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ContentType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ContentDisposition",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Headers",
+        "Type": "Microsoft.AspNetCore.Http.IHeaderDictionary",
+        "IsRequired": false
+      },
+      {
+        "Name": "Length",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FileName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Chubb.Prueba.Entities.Result.ResultResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Chubb.Prueba.Api.Controllers.RelationController",
+    "Method": "GetCustomerForCodeInsurance",
+    "RelativePath": "Relation/GetCustomerForCodeInsurance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Chubb.Prueba.Api.Request.RequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Chubb.Prueba.Entities.Result.ResultResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Chubb.Prueba.Api.Controllers.RelationController",
+    "Method": "GetInsuranceForCedula",
+    "RelativePath": "Relation/GetInsuranceForCedula",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Chubb.Prueba.Api.Request.RequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Chubb.Prueba.Entities.Result.ResultResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Chubb.Prueba.Api.Controllers.RelationController",
+    "Method": "PostRelationCustomerInsurance",
+    "RelativePath": "Relation/PostRelationCustomerInsurance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Chubb.Prueba.Api.Request.RequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Chubb.Prueba.Entities.Result.ResultResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Chubb.Prueba.Api.Controllers.RelationController",
+    "Method": "UpdateRelationCustomerInsurance",
+    "RelativePath": "Relation/UpdateRelationCustomerInsurance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Chubb.Prueba.Api.Request.RequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Chubb.Prueba.Entities.Result.ResultResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Chubb.Prueba.Api.Controllers.TypeInsuranceController",
+    "Method": "GetInsuranceByCode",
+    "RelativePath": "TypeInsurance/GetInsuranceByCode",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Chubb.Prueba.Api.Request.RequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Chubb.Prueba.Entities.Result.ResultResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Chubb.Prueba.Api.Controllers.TypeInsuranceController",
+    "Method": "GetTypeInsurance",
+    "RelativePath": "TypeInsurance/GetTypeInsurance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Chubb.Prueba.Api.Request.RequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Chubb.Prueba.Entities.Result.ResultResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Chubb.Prueba.Api.Controllers.TypeInsuranceController",
+    "Method": "PostTypeInsurance",
+    "RelativePath": "TypeInsurance/PostTypeInsurance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Chubb.Prueba.Api.Request.RequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Chubb.Prueba.Entities.Result.ResultResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Chubb.Prueba.Api.Controllers.TypeInsuranceController",
+    "Method": "UpdateTypeInsurance",
+    "RelativePath": "TypeInsurance/UpdateTypeInsurance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Chubb.Prueba.Api.Request.RequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Chubb.Prueba.Entities.Result.ResultResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

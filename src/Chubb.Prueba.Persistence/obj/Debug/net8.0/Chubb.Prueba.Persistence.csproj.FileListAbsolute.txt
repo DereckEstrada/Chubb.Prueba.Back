@@ -1,0 +1,15 @@
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Persistence\bin\Debug\net8.0\Chubb.Prueba.Persistence.deps.json
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Persistence\bin\Debug\net8.0\Chubb.Prueba.Persistence.dll
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Persistence\bin\Debug\net8.0\Chubb.Prueba.Persistence.pdb
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Persistence\obj\Debug\net8.0\Chubb.Prueba.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Persistence\obj\Debug\net8.0\Chubb.Prueba.Persistence.AssemblyInfoInputs.cache
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Persistence\obj\Debug\net8.0\Chubb.Prueba.Persistence.AssemblyInfo.cs
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Persistence\obj\Debug\net8.0\Chubb.Prueba.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Persistence\obj\Debug\net8.0\Chubb.Prueba.Persistence.dll
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Persistence\obj\Debug\net8.0\refint\Chubb.Prueba.Persistence.dll
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Persistence\obj\Debug\net8.0\Chubb.Prueba.Persistence.pdb
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Persistence\obj\Debug\net8.0\ref\Chubb.Prueba.Persistence.dll
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Persistence\bin\Debug\net8.0\Chubb.Prueba.Domain.dll
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Persistence\bin\Debug\net8.0\Chubb.Prueba.Domain.pdb
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Persistence\obj\Debug\net8.0\Chubb.Prueba.Persistence.csproj.AssemblyReference.cache
+C:\Users\derec\OneDrive\Documents\Viamatica\Chubb\Chubb.PruebaBack\src\Chubb.Prueba.Persistence\obj\Debug\net8.0\Chubb.Pr.C257B544.Up2Date

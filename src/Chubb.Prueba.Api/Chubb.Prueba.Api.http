@@ -1,0 +1,6 @@
+@Chubb.Prueba.Api_HostAddress = http://localhost:5207
+
+GET {{Chubb.Prueba.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

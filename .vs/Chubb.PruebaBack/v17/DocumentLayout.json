@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F58C856-A612-4197-BEC9-19F49EA5ADF8}|src\\Chubb.Prueba.Api\\Chubb.Prueba.Api.csproj|c:\\users\\viamatica\\documents\\proyectos\\chubb\\clone\\chubb.prueba.back\\src\\chubb.prueba.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F58C856-A612-4197-BEC9-19F49EA5ADF8}|src\\Chubb.Prueba.Api\\Chubb.Prueba.Api.csproj|solutionrelative:src\\chubb.prueba.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388CD1B8-AE9D-4744-AA5D-6A34E7A402A3}|src\\Chubb.Prueba.External\\Chubb.Prueba.BL.csproj|c:\\users\\viamatica\\documents\\proyectos\\chubb\\clone\\chubb.prueba.back\\src\\chubb.prueba.external\\customer\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388CD1B8-AE9D-4744-AA5D-6A34E7A402A3}|src\\Chubb.Prueba.External\\Chubb.Prueba.BL.csproj|solutionrelative:src\\chubb.prueba.external\\customer\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0102DA55-63E3-4E1B-B822-C6EFF3F07259}|src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj|c:\\users\\viamatica\\documents\\proyectos\\chubb\\clone\\chubb.prueba.back\\src\\chubb.prueba.common\\customer\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0102DA55-63E3-4E1B-B822-C6EFF3F07259}|src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj|solutionrelative:src\\chubb.prueba.common\\customer\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0102DA55-63E3-4E1B-B822-C6EFF3F07259}|src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj|c:\\users\\viamatica\\documents\\proyectos\\chubb\\clone\\chubb.prueba.back\\src\\chubb.prueba.common\\customer\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0102DA55-63E3-4E1B-B822-C6EFF3F07259}|src\\Chubb.Prueba.Common\\Chubb.Prueba.DAL.csproj|solutionrelative:src\\chubb.prueba.common\\customer\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Api\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "src\\Chubb.Prueba.Api\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Api\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "src\\Chubb.Prueba.Api\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwCwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:17:24.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerServices.cs",
+              "DocumentMoniker": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\Customer\\CustomerServices.cs",
+              "RelativeDocumentMoniker": "src\\Chubb.Prueba.External\\Customer\\CustomerServices.cs",
+              "ToolTip": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.External\\Customer\\CustomerServices.cs",
+              "RelativeToolTip": "src\\Chubb.Prueba.External\\Customer\\CustomerServices.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:16:47.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Customer\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "src\\Chubb.Prueba.Common\\Customer\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Customer\\ICustomerRepository.cs",
+              "RelativeToolTip": "src\\Chubb.Prueba.Common\\Customer\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:16:07.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Customer\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "src\\Chubb.Prueba.Common\\Customer\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\viamatica\\Documents\\proyectos\\chubb\\clone\\Chubb.Prueba.Back\\src\\Chubb.Prueba.Common\\Customer\\CustomerRepository.cs",
+              "RelativeToolTip": "src\\Chubb.Prueba.Common\\Customer\\CustomerRepository.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAIwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:14:52.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
